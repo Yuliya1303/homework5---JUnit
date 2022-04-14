@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d551b3b-5c74-4196-be22-345157e5520a" name="Changes" comment="Added Parametrized Tests" />
+    <list default="true" id="5d551b3b-5c74-4196-be22-345157e5520a" name="Changes" comment="cleared cached files from gitignored" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649930699014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cleared cached files from gitignored">
+      <created>1649932415808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649932415808</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +238,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Parametrized Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Parametrized Tests" />
+    <MESSAGE value="cleared cached files from gitignored" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleared cached files from gitignored" />
   </component>
 </project>
